@@ -1,8 +1,8 @@
-# Basic SCP Foundation Website
+# SCP Foundation Basic
 A simple redesign of the SCP Foundation Website.
 
 
-# GitHub Pages Basic SCP Foundation Website
+# GitHub Pages SCP Foundation Basic Website
 Link: https://codie-shannon.github.io/SCPFoundationBasic/
 
 
